@@ -93,10 +93,3 @@ The Student Performance dataset was successfully loaded, explored, cleaned, anal
 The analysis indicates that study time has only a very weak positive linear correlation with final grades in this dataset. Gender-based analysis shows a small difference in average final grades between male and female students.
 
 This project demonstrates a complete basic data analysis workflow using Python, Pandas, and Matplotlib.
-
-## Author
-
-Hiren Kachiya
-
-Data Science/Analysis with Python Intern  
-Maincrafts Technology
