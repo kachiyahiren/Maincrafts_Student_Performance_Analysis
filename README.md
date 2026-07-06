@@ -65,11 +65,23 @@ The dataset contains no missing values and no duplicate records.
 
 ## Data Visualizations
 
-The following visualizations were created:
+### Distribution of Final Grades
 
-1. Histogram of Final Grades
-2. Scatter Plot of Study Time vs Final Grade
-3. Bar Chart of Average Final Grade by Gender
+The histogram shows the distribution of students' final grades.
+
+![Distribution of Final Grades](images/final_grades_histogram.png)
+
+### Study Time vs Final Grade
+
+The scatter plot shows the relationship between weekly study time and students' final grades.
+
+![Study Time vs Final Grade](images/studytime_vs_grade.png)
+
+### Average Final Grade by Gender
+
+The bar chart compares the average final grade of male and female students.
+
+![Average Final Grade by Gender](images/gender_average_grade.png)
 
 ## Tools and Technologies
 
